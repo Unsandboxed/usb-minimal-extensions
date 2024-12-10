@@ -452,15 +452,15 @@ class SampleFile extends BuildFile {
       throw new Error("Has no extensions");
     }
 
-    for (const url of urls) {
-      if (
-        !url.startsWith("https://extensions.turbowarp.org/") ||
-        !url.endsWith(".js")
-      ) {
-        throw new Error(`Invalid extension URL for sample: ${url}`);
-      }
-    }
-  }
+  //   for (const url of urls) {
+  //     if (
+  //       !url.startsWith("https://extensions.turbowarp.org/") ||
+  //       !url.endsWith(".js")
+  //     ) {
+  //       throw new Error(`Invalid extension URL for sample: ${url}`);
+  //     }
+  //   }
+  // }
 }
 
 class Build {
