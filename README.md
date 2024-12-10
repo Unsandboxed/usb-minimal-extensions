@@ -1,12 +1,14 @@
-# TurboWarp Extension Gallery
+# Minimal Extensions
 
-User-contributed unsandboxed extension gallery for TurboWarp.
+This is a fork of the TurboWarp extension gallery with just its build tools and extensions.
 
-https://extensions.turbowarp.org/
+Useful for if you don't want a full fleged gallery but still wannna load stuff in the GUI easier.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+Please contribute to the parent repo, otherwise create a private fork.
+
+This repo specifically is NOT taking contributions.
 
 ## License
 
