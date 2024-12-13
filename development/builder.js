@@ -460,7 +460,7 @@ class SampleFile extends BuildFile {
   //       throw new Error(`Invalid extension URL for sample: ${url}`);
   //     }
   //   }
-  // }
+  }
 }
 
 class Build {
